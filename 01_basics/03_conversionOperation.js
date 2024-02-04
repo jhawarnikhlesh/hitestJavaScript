@@ -38,10 +38,13 @@
 // console.log(typeof (valueInNumberinstring));
 // console.log(valueInNumberinstring);
 
-// Case 5
-let scoreInString = undefined;
-let valueInNumberinstring = Number(scoreInString);
-console.log(typeof (valueInNumberinstring));
-console.log(valueInNumberinstring);
+// // Case 5
+// let scoreInString = undefined;
+// let valueInNumberinstring = Number(scoreInString);
+// console.log(typeof (valueInNumberinstring));
+// console.log(valueInNumberinstring);
+
+
+/****************************************************operators  */
 
 
